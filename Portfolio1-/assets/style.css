@@ -1,0 +1,44 @@
+header {
+    padding: 5%;
+    background: rgb(8, 8, 8);
+    border: 10px black;
+    text-align: center;
+}
+
+.title {
+    color: white;
+    font-size: 500%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background: rgb(163, 163, 163);
+
+}
+
+nav ul {
+    float: inline-end;
+    list-style: none;
+    background: white;
+    font-size: larger;
+
+}
+.about-me{
+    background-color: blue;
+    margin: 20px;
+    padding-bottom: 1%;
+}
+.img1{
+    width: 150px;
+    border: 10px black;
+}
+
+.resize{
+    width:100px
+}
+
+footer{
+    background-color: antiquewhite;
+    list-style-type: style none;
+
+}
